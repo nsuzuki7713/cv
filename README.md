@@ -8,6 +8,7 @@
 |性別|男性|
 |生年月日|1993年|
 |生息地|東京都|
+|区分|個人事業主|
 |Twitter|[@naoto_7713](https://twitter.com/naoto_7713)|
 |Qiita|[@turmericN](https://qiita.com/turmericN)|
 |GitHub|[@nsuzuki7713](https://github.com/nsuzuki7713)|
@@ -22,7 +23,26 @@
 ## ポートフォリオ
 ### a6s-cloud
 #### 概要
+私が発起者となっているプロジェクトです。  
+Twitterや勉強会で知り合った4人でチーム開発を行っております。  
+主に活動はslackとGit Hubベースで活動しています。  
+  
+勉強会のハッシュタグからTweetを集計し、Word Cloudなどで可視化することでもっと勉強会の雰囲気を知ってもらうことを目的としたアプリとなります。  
+  
+使用技術
+- フロントエンド  
+Vue, TypeScript, Elemet-UI
+- バックエンド  
+PHP, Laravel, Python
+- インフラ  
+Docker
+
 #### 成果物
+- [a6s-cloud-front](https://github.com/nsuzuki7713/a6s-cloud-front)  
+a6s-cloud-frontのREADMEに詳細は記載しています。
+- [a6s-cloud-backend](https://github.com/nsuzuki7713/a6s-cloud-backend)  
+- [a6s-cloud-batch](https://github.com/nsuzuki7713/a6s-cloud-batch)  
+
 
 ### Word Cloudでツイートを可視化してみた
 #### 概要
